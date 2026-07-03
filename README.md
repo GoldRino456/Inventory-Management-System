@@ -91,28 +91,27 @@ The inventory management dashboard will open.
 Inventory Management System/
 ├── src/
 │   ├── main/
-│   │   ├── java/
-│   │   │   ├── inventorymgr/InventoryManagementSystem/
-│   │   │   │   ├── Main.java
-│   │   │   │   ├── MainpageController.java
-│   │   │   │   ├── AddPartController.java
-│   │   │   │   ├── ModifyPartController.java
-│   │   │   │   ├── AddProductController.java
-│   │   │   │   ├── ModifyProductController.java
-│   │   │   │   ├── Inventory.java
-│   │   │   │   ├── Part.java
-│   │   │   │   ├── InHouse.java
-│   │   │   │   ├── Outsourced.java
-│   │   │   │   └── Product.java
-│   │   │   └── module-info.java
-│   │   └── resources/
-│   │       └── inventorymgr/InventoryManagementSystem/
-│   │           ├── inventory_mainpage.fxml
-│   │           ├── inventory_addpart.fxml
-│   │           ├── inventory_modifypart.fxml
-│   │           ├── inventory_addproduct.fxml
-│   │           └── inventory_modifyproduct.fxml
-│   └── test/
+│     ├── java/
+│     │   ├── inventorymgr/InventoryManagementSystem/
+│     │   │   ├── Main.java
+│     │   │   ├── MainpageController.java
+│     │   │   ├── AddPartController.java
+│     │   │   ├── ModifyPartController.java
+│     │   │   ├── AddProductController.java
+│     │   │   ├── ModifyProductController.java
+│     │   │   ├── Inventory.java
+│     │   │   ├── Part.java
+│     │   │   ├── InHouse.java
+│     │   │   ├── Outsourced.java
+│     │   │   └── Product.java
+│     │   └── module-info.java
+│     └── resources/
+│         └── inventorymgr/InventoryManagementSystem/
+│             ├── inventory_mainpage.fxml
+│             ├── inventory_addpart.fxml
+│             ├── inventory_modifypart.fxml
+│             ├── inventory_addproduct.fxml
+│             └── inventory_modifyproduct.fxml
 ├── pom.xml
 ├── .gitignore
 └── README.md
